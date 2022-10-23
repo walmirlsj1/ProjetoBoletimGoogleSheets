@@ -31,3 +31,13 @@ No Linux >: gradlew run
 
 No Windows >: gradlew.bat run
 
+Apos executar o comando, sera pedido permissao em uma pagina do navegador web padrao, sera preciso uma conta google para permitir, assim que fizer login, vai aparecer uma tela escrito "O Google não verificou este app", basta clicar no link "Avançado" abaixo do meio da tela, e depois no link "Acessar JavaGoogleSheets (não seguro)",
+com isso a aplicaçao vai rodar e alterar os dados da planilha do google sheets, que pode ser acessada pelo link publico abaixo:
+
+[Acesse a planilha google](https://docs.google.com/spreadsheets/d/1pxY711YOoBl12np50v8e7FYneZ3zErv556HHxL390gw/edit?usp=sharing).
+
+
+# REFERÊNCIA
+
+Documentação da Google Sheets: https://developers.google.com/sheets/api/guides/concepts
+
